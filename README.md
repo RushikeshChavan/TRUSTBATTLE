@@ -515,4 +515,4 @@ cd frontend && npm install && npm run dev
 
 ---
 
-*Full concept & design rationale: `about_project.txt` · work split: `project_distribution.md` · agent context: `AGENTS.md`.*
+*Full concept & design rationale: `about_project.txt` · work split: `project_distribution.md` · agent context: `AGENTS.md`...*
